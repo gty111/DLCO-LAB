@@ -1,0 +1,8 @@
+top=alu
+y (SW3,SW2,SW1,SW0)
+x (SW7,SW6,SW5,SW4)
+s (SW10,SW9,SW8)
+z (LD3,LD2,LD1,LD0)
+f1 LD4
+f2 LD5
+f3 LD6
